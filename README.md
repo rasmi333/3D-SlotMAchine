@@ -1,0 +1,2 @@
+# 3D-SlotMAchine
+A slotmachine program.  1) Toast image appear when you are a winner2)  ‘PULL’ button is not drawn  when the spinners are spinning. 3) PendingIntent is added  to the notification so when the user clicks the notification it will launch the application. 4)   The spinner has six faces . Each face  has a separate image. 5) A cheating A mechanism is added – If the user has not hit a jackpot after 3 failed tries, the next try will be a jackpot. 8) A “Booing” sound is played when the user selects Yes in the Quit Application confirmation dialog ( MediaPlayer).
